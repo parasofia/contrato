@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: rgb(5, 53, 61);
-    background-image: url(imagens/coracao.gif);
+    background-image: url(coracao.gif);
   }
   
   .container {
